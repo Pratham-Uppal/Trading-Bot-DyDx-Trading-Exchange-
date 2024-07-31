@@ -1,2 +1,6 @@
 # Trading-Bot-DyDx-Trading-Exchange-
-An autonomous DyDx trading bot built using Python, and deployed on AWS EC2. This bot interacts with the DYDX Layer 2 Ethereum Trading Exchange, exploiting statistical arbitrage in pairs trading with exceptional precision. It operates unsupervised, consistently, and sends real-time trade performance updates via Telegram for continuous user insights.
+I have developed an advanced decentralized and autonomous bot deployed on AWS Elastic Cloud Compute (EC2), operating with unwavering consistency and requiring no supervision.
+
+The bot is capable of exploiting statistical arbitrage opportunities in pairs trading with exceptional precision.
+
+The bot proficiently communicates via Telegram, delivering real-time notifications to users regarding their trade performance metrics, thereby ensuring instant and continuous insights into trading efficacy.
